@@ -1,0 +1,27 @@
+[
+  {
+    "name":"Md Sikandar",
+    "age":25,
+    "payment":"online"
+  },
+  {
+    "name":"Shubham",
+    "age":20,
+    "payment":"offline"
+  },
+  {
+    "name":"Gaurav",
+    "age":25,
+    "payment":"online"
+  },
+  {
+    "name":"Irfan",
+    "age":55,
+    "payment":"Offline
+  },
+  {
+    "name":"Akash das",
+    "age":15,
+    "payment":"online"
+  }
+]
